@@ -21,6 +21,8 @@ class DemoController extends Controller
         return array();
     }
 
+    //le commentaire inutile pour test
+    
     /**
      * @Route("/hello/{name}", name="_demo_hello")
      * @Template()
